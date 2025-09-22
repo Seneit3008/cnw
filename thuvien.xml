@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<thuvien>
+    <sach>
+        <title>Giải tích 1</title>
+        <author>Trần Văn Hai</author>
+        <year>2020</year>
+        <genre>Toán</genre>
+    </sach>
+    <sach>
+        <title>Kinh tế chính trị Mác-Lênin</title>
+        <author>Nguyễn Văn Ba</author>
+        <year>2022</year>
+        <genre>Triết học</genre>
+    </sach>
+    <sach>
+        <title>Python</title>
+        <author>Đinh Văn Tư</author>
+        <year>2016</year>
+        <genre>Công nghệ thông tin</genre>
+    </sach>
+    <sach>
+        <title>Kiểm thử</title>
+        <author>Hoàng Văn Năm</author>
+        <year>2019</year>
+        <genre>Công nghệ thông tin</genre>
+    </sach>
+</thuvien>

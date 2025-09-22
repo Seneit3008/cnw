@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lop>
+    <sinhvien>
+        <name>Nguyễn An</name>
+        <id>SV1</id>
+        <subjects>
+            <subject>
+                <subject_name>Giải tích</subject_name>
+                <score>8.5</score>
+            </subject>
+            <subject>
+                <subject_name>Anh văn căn bản</subject_name>
+                <score>7.8</score>
+            </subject>
+        </subjects>
+    </sinhvien>
+    <sinhvien>
+        <name>Trần Bình</name>
+        <id>SV2</id>
+        <subjects>
+            <subject>
+                <subject_name>Kiểm thử phần mềm</subject_name>
+                <score>9.0</score>
+            </subject>
+            <subject>
+                <subject_name>Ngôn ngữ lập trình 1</subject_name>
+                <score>8.6</score>
+            </subject>
+        </subjects>
+    </sinhvien>
+</lop>
