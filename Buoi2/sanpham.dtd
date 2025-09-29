@@ -1,0 +1,8 @@
+<!ELEMENT sanpham (item+)>
+<!ELEMENT item EMPTY>
+<!ATTLIST item
+    id ID #REQUIRED
+    category CDATA #REQUIRED
+    price CDATA #REQUIRED
+    currency CDATA #REQUIRED
+>
